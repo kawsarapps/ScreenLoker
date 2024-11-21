@@ -1,7 +1,5 @@
 #! /usr/bin python
 # -*- coding: utf-8 -*-
-
-from tkinter import *
 import tkinter
 import time
 from tkinter import messagebox
